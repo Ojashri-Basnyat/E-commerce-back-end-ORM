@@ -37,7 +37,6 @@ npm start
 ## Tests
 Please use insomnia to GET, POST, PUT and DELETE rows.
 
-You can view the demo video here: https://github.com/Ojashri-Basnyat/E-commerce-back-end-ORM
 
 ## Questions
 Please don't hesitate to contact me with any questions: [email](mailto:basnyat.ojashri@gmail.com), [GitHub](https://github.com/Ojashri-Basnyat)<br />
